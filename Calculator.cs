@@ -33,7 +33,7 @@ namespace ConsoleApp1
                         Console.WriteLine(multiplication(num1, num2));
                         break;
                     }
-           ,    case 4:
+               case 4:
                     {
                         Console.WriteLine(division(num1, num2));
                         break;
