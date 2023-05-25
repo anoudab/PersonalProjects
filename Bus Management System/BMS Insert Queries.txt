@@ -7,27 +7,27 @@ BMS - Insert Queries
 Bus Table
 ------------------------
 INSERT INTO [dbo].[Bus]
-           ([NoOfSeats]
-           ,[Region])
+           ([NoOfSeats],
+            [Region])
      VALUES
-           ('100'
-           ,'Irqa')
+           ('100',
+            'Irqa')
 GO
 --------------------------
 INSERT INTO [dbo].[Bus]
-           ([NoOfSeats]
-           ,[Region])
+           ([NoOfSeats],
+            [Region])
      VALUES
-           ('150'
-           ,'AlMalqa')
+           ('150',
+            'AlMalqa')
 GO
 ---------------------------
 INSERT INTO [dbo].[Bus]
-           ([NoOfSeats]
-           ,[Region])
+           ([NoOfSeats],
+            [Region])
      VALUES
-           ('100'
-           ,'AlOlaya')
+           ('100',
+            'AlOlaya')
 GO
 ---------------------------
 
