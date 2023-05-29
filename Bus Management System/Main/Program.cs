@@ -253,7 +253,7 @@ namespace BMS
                 }
                 else
                 {
-                    Console.WriteLine("Your chose is not correct \nPlease enter agian");
+                    Console.WriteLine("Your choose is not correct \nPlease enter agian");
                     user.Role = Console.ReadLine().ToLower();
 
                 }
